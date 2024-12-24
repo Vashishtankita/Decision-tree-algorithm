@@ -1,7 +1,7 @@
 # Description:
 This project focuses on predicting diabetes in individuals using a decision tree classifier. The dataset used is the Pima Indians Diabetes Dataset, which contains health metrics such as glucose levels, blood pressure, and body mass index.
 
-#The workflow includes:
+# The workflow includes:
 - Data exploration and visualization to understand patterns and distributions.
 - Preprocessing steps like handling missing values and encoding target variables.
 - Training and evaluating a decision tree classifier for initial predictions.
@@ -14,10 +14,10 @@ This project focuses on predicting diabetes in individuals using a decision tree
 - Optimization: Hyperparameter tuning using the caret library to improve accuracy.
 - Performance Metrics: Confusion matrix and accuracy calculation for evaluation.
 
-#Technologies Used:
+# Technologies Used:
 - Programming Language: R
 - Libraries: mlbench, rpart, caret, ggplot2, dplyr
 
-#Results:
+# Results:
 - Baseline Accuracy: Achieved using a standard decision tree model.
 - Optimized Accuracy: Improved after hyperparameter tuning.
